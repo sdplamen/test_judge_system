@@ -92,5 +92,5 @@ def judge():
     print(f'Success Rate: {success_rate:.2f}% ({correct_tests}/{total_tests}) tests passed')
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     judge()
